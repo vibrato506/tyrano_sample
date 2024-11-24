@@ -40,7 +40,7 @@
 
 *tag_e
 
-[bg storage=flower.jpg time=500]
+[bg storage=flower.WEBP time=500]
 
 [cm]
 歌と竜は世界に塩を満たす。[l][r]
