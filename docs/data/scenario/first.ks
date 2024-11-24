@@ -29,7 +29,7 @@
 
 [cm]
 
-[bg storage=sky.jpg time=500]
+[bg storage=sky.JPG time=500]
 
 友は卵の糧となり、妹はあなたと対峙する。[l][r]
 友と妹の子はやがて...[r]
